@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning full stack development 
 - Author Rajpal Singh gohil 
-
+rajpal gohil
 
 <!---
 Rajpal25/Rajpal25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
